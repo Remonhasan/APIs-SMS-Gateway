@@ -1,5 +1,5 @@
 # Uap Faculty Manager
-> sms gateways for ensuring text/sms info.
+> sms gateways for ensuring text/sms information.
 
 # App Info
 ```
